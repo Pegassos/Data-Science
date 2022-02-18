@@ -2,7 +2,7 @@
 
 ## Introduction to Data Science
 
-** Solo Learn's data science course with Sklearn **
+**Solo Learn's data science course with Sklearn**
 
 ## Linear Regression
 
@@ -15,3 +15,7 @@ The model was trained to predict boston median house values based on RM & LSTAT.
 Seond part is about Classification problems for _binary_ & _categorical_ data.
 
 The model was trained to predict the species of Iris flowers based on petals length & width with an accuracy of 97% with KNeighbors.
+
+## Clustering
+
+Clustering is about _unsupervised learning_ (no ground truth to validate the model) where we use KMeans algorithm which puts the data into n*clusters categorized by the same distance (Euclidien...) to the_centroid*.
